@@ -41,7 +41,7 @@ class _UiSettings(BaseSettings):
         env_ignore_empty=True
     )
 
-    title: str = "Observatorio Mundial de Salud y Bienestar - IA Generativaa"
+    title: str = "Observatorio Mundial de Salud y Bienestar - IA Generativa"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
     chat_title: str = "Start chatting"
